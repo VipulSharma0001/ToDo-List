@@ -21,7 +21,7 @@ This repository contains a simple and intuitive To-Do List application built wit
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/VipulSharma0001/ToDo-List/tree/main/to-do-list
 Open the Project:
 
  2. **Navigate to the project folder.**
